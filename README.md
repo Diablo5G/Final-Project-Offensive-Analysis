@@ -53,7 +53,7 @@ To complete the project, we filled out the reports and slide decks linked below.
 
 > As we work on these aspects, I had completed the reports which all cover three stages - **Defensive Security**, **Offensive Security** and **Network Forensics**:  [Final Engagement](https://github.com/Diablo5G/Final-Project-Offensive-Analysis/blob/main/Resources/Nina%20Herbold-Final%20Project%20Report.pdf)
 
-- **Presentations:** Our group represent as Resurrected Team to present Offensive Presentation as linked below;
+- **Presentations:** Our group represent as Resurrected Team to present Offensive Presentation in linked below;
 
 > [Offensive Presentation](https://github.com/Diablo5G/Final-Project-Offensive-Analysis/blob/main/Resources/Final%20Project%20-%20Offensive%20Presentation.pdf)
 
