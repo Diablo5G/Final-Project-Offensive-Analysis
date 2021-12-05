@@ -1,4 +1,4 @@
-<img align="center" width="5600" height="530" src="https://github.com/Diablo5G/Final-Project-Offensive-Analysis/blob/main/Images/background%20image/1050057.jpg">
+<img align="center" width="5600" height="430" src="https://github.com/Diablo5G/Final-Project-Offensive-Analysis/blob/main/Images/background%20image/1050057.jpg">
 
 ---
 
@@ -68,3 +68,6 @@ To complete the project, we filled out the reports and slide decks linked below.
 © Trilogy Education Services, a 2U, Inc., Instructor Jerry Arnold and TAs; Matt, Jansen and Micheal.
 
 © The University of Texas at Austin Boot Camp, The Cybersecurity program. 
+
+---
+
