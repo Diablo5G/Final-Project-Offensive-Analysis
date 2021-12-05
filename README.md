@@ -1,4 +1,8 @@
-## Student Guide: Final Project Week
+<img align="center" width="5600" height="530" src="https://github.com/Diablo5G/Final-Project-Offensive-Analysis/blob/main/Images/background%20image/1050057.jpg">
+
+---
+
+## Final Engagement - Attack, Defense, and Analysis of a Vulnerable Network
 
 ### Overview
 
@@ -45,7 +49,7 @@ This is a diagram of the network:
 ---
 
 
-### Report and Presentation Templates
+:fire: **Report and Presentation Templates** :fire:
 
 To complete the project, we filled out the reports and slide decks linked below.  
 
